@@ -1,2 +1,2 @@
-# questlog.github.io
+# Daily Codex - The Quest Log
 The Quest Log
